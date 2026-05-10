@@ -1,0 +1,6 @@
+# Ignore sensitive files and environment configs
+.env
+__pycache__/
+*.pyc
+.streamlit/
+.git/
