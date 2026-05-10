@@ -1,0 +1,10 @@
+streamlit
+openbb
+polars
+plotly
+pandas
+vaderSentiment
+yfinance
+newspaper3k
+requests
+beautifulsoup4
